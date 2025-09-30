@@ -87,25 +87,6 @@ User is alerted. The sound continues until the AlarmService is explicitly stoppe
 This structured approach ensures that alarms are handled efficiently and reliably, forming the foundation of a functional alarm application.
 
 Conceptual Output Screenshots
-Alarm App Screens
-
-Screen 1
-
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/69531667-20cf-402d-9c38-fdcb055036d8" />
-
-Main Screen - No Alarm Set
-(As previously described/visualized)	
-
-Screen 2
-
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/51bbfae1-9165-4ee5-9b14-d1905a598c94" />
-
-Time Picker Dialog
-(As previously described/visualized)	
-
-Screen 3
-
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/52f0c2cc-726c-4139-85f8-47c3e451ef50" />
-
-Main Screen - Alarm Set
-(As previously described/visualized
+| ![Screen 1](https://github.com/user-attachments/assets/69531667-20cf-402d-9c38-fdcb055036d8)                   | ![Screen 2](https://github.com/user-attachments/assets/51bbfae1-9165-4ee5-9b14-d1905a598c94)                   | ![Screen 3](https://github.com/user-attachments/assets/52f0c2cc-726c-4139-85f8-47c3e451ef50)                                                 |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Main Screen – No Alarm Set**<br>Shows the main interface when no alarm is set. Users can create a new alarm. | **Time Picker Dialog**<br>Allows the user to select the desired alarm time. Appears when creating a new alarm. | **Main Screen – Alarm Set**<br>Displays the main interface after an alarm is set, showing the alarm time and options to cancel or modify it. |
